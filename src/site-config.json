@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Rocky Mountain Excavating",
+    "phone": "+15052009367",
+    "category": "excavation contractor",
+    "city": "Albuquerque",
+    "state": "NM"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Albuquerque's Excavation Experts",
+      "heroSubline": "Rocky Mountain Excavating delivers reliable and precise excavation services throughout Albuquerque. We handle projects of all sizes, from residential to commercial.",
+      "aboutTitle": "Decades of Dirt-Moving Expertise",
+      "aboutText": [
+        "Rocky Mountain Excavating started with a single backhoe and a vision: to provide Albuquerque with excavation services built on integrity and skill. Founded by native New Mexican, Jake Herrera, we understood the unique challenges of working in the high desert.",
+        "We approach every project with meticulous planning and execution. Our team uses modern equipment and time-tested techniques to ensure efficiency and safety. We value clear communication and collaboration, working closely with our clients every step of the way.",
+        "We're committed to Albuquerque. We actively support local charities and strive to minimize our environmental impact. We understand Albuquerque's unique landscape and are dedicated to preserving its beauty while building its future."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Albuquerque's soil conditions and permitting processes."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We arrive on time and complete projects within budget and schedule."
+        },
+        {
+          "title": "Safety First",
+          "description": "Comprehensive safety protocols to protect our team and your property."
+        },
+        {
+          "title": "Modern Equipment",
+          "description": "Well-maintained fleet for efficient and precise excavation."
+        }
+      ],
+      "ctaHeadline": "Ready to break ground?",
+      "ctaSubline": "Contact Rocky Mountain Excavating for a free estimate on your next project."
+    },
+    "services": [
+      {
+        "slug": "site-preparation",
+        "name": "Site Preparation",
+        "shortDescription": "Prepare your land for construction with our comprehensive site preparation services.",
+        "description": "Proper site preparation is the foundation of any successful construction project. At Rocky Mountain Excavating, we offer a full range of site preparation services, including clearing vegetation, removing debris, grading and leveling, and soil stabilization. We understand the challenges of Albuquerque's diverse terrain, from the sandy soils of the North Valley to the rocky landscapes of the foothills. Our experienced team uses advanced equipment to ensure your site is ready for building, whether it's a residential home or a commercial development. We handle all aspects of site preparation, including erosion control, drainage solutions, and utility trenching. We also work closely with engineers and architects to ensure compliance with all local regulations and building codes. We are committed to providing efficient and reliable site preparation services that meet your specific needs and budget, setting the stage for a successful construction project.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the site's topography, soil conditions, and existing vegetation.",
+          "Step 2: Clearing and Grubbing - We remove trees, shrubs, and other vegetation to prepare the site for grading.",
+          "Step 3: Grading and Leveling - We reshape the land to create a level and stable surface for construction.",
+          "Step 4: Compaction - We compact the soil to ensure a solid foundation for building."
+        ],
+        "benefits": [
+          "Ensures a stable foundation for construction",
+          "Prevents soil erosion and water damage",
+          "Meets all local regulations and building codes",
+          "Saves time and money on future repairs"
+        ],
+        "faq": [
+          {
+            "question": "Why is site preparation important?",
+            "answer": "Proper site preparation ensures a stable foundation for your building, preventing costly problems down the road. It also helps with drainage and erosion control."
+          },
+          {
+            "question": "How long does site preparation take?",
+            "answer": "The duration depends on the size and complexity of the project. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need permits for site preparation?",
+            "answer": "Yes, in most cases, permits are required. We can assist you with the permitting process to ensure compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-excavation",
+        "name": "Foundation Excavation",
+        "shortDescription": "Precise and reliable foundation excavation for residential and commercial buildings.",
+        "description": "A solid foundation is paramount for any structure in Albuquerque. Rocky Mountain Excavating specializes in foundation excavation, ensuring accurate dimensions and proper depth for your building's foundation. We understand the unique soil conditions in Albuquerque, from the expansive clays in some areas to the caliche rock closer to the mountains. Our experienced operators use GPS-guided equipment to deliver precise excavation, minimizing the risk of errors and delays. We handle all types of foundation excavation, including basements, slabs-on-grade, and crawl spaces. We also provide backfilling and compaction services to ensure the foundation is properly supported. We prioritize safety and efficiency, working closely with builders and engineers to ensure the foundation meets all structural requirements. With Rocky Mountain Excavating, you can trust that your foundation will be built on a solid base, ready to withstand the test of time and the challenges of Albuquerque's climate.",
+        "process": [
+          "Step 1: Layout - We mark the foundation outline according to the building plans.",
+          "Step 2: Excavation - We carefully excavate the soil to the specified depth and dimensions.",
+          "Step 3: Inspection - We ensure the excavation meets all structural requirements before pouring concrete.",
+          "Step 4: Backfilling - We backfill the excavated area and compact the soil to provide support for the foundation."
+        ],
+        "benefits": [
+          "Ensures a stable and level foundation",
+          "Prevents foundation cracks and settlement",
+          "Meets all structural requirements",
+          "Reduces the risk of future repairs"
+        ],
+        "faq": [
+          {
+            "question": "How deep should my foundation be?",
+            "answer": "The depth of the foundation depends on several factors, including soil conditions, frost line, and building codes. We will determine the appropriate depth during the site assessment."
+          },
+          {
+            "question": "What type of equipment do you use for foundation excavation?",
+            "answer": "We use a variety of equipment, including excavators, backhoes, and bulldozers, depending on the size and complexity of the project."
+          },
+          {
+            "question": "Do you handle basement excavation?",
+            "answer": "Yes, we have extensive experience in basement excavation, ensuring proper drainage and waterproofing."
+          }
+        ]
+      },
+      {
+        "slug": "utility-trenching",
+        "name": "Utility Trenching",
+        "shortDescription": "Safe and efficient utility trenching for water, sewer, gas, and electrical lines.",
+        "description": "Rocky Mountain Excavating provides safe and efficient utility trenching services for residential and commercial properties in Albuquerque. We understand the importance of precise and careful excavation when installing or repairing underground utilities. We have extensive experience working with various utility companies and adhering to their specific requirements. Our team uses specialized equipment to minimize disruption to your property and ensure the trenches are dug to the correct depth and width. We handle trenching for water lines, sewer lines, gas lines, and electrical conduits. We also provide backfilling and compaction services to restore the area to its original condition. We prioritize safety and compliance, following all OSHA regulations and local codes to protect our team and your property. Whether you're installing new utilities or repairing existing ones, you can rely on Rocky Mountain Excavating for dependable and professional trenching services.",
+        "process": [
+          "Step 1: Utility Locating - We locate and mark all existing underground utilities to prevent damage.",
+          "Step 2: Trenching - We carefully excavate the trenches to the specified depth and width.",
+          "Step 3: Pipe Installation - We install the utility lines according to the utility company's specifications.",
+          "Step 4: Backfilling - We backfill the trenches and compact the soil to restore the area."
+        ],
+        "benefits": [
+          "Ensures safe and reliable utility connections",
+          "Prevents damage to existing underground utilities",
+          "Meets all utility company requirements",
+          "Restores the area to its original condition"
+        ],
+        "faq": [
+          {
+            "question": "How do you prevent damage to existing utilities?",
+            "answer": "We use a combination of utility locating services, hand digging, and careful excavation techniques to minimize the risk of damage."
+          },
+          {
+            "question": "What is the typical depth for utility trenches?",
+            "answer": "The depth varies depending on the type of utility and local codes. We will determine the appropriate depth during the planning phase."
+          },
+          {
+            "question": "Do you handle emergency utility repairs?",
+            "answer": "Yes, we offer emergency utility repair services to address urgent situations promptly and efficiently."
+          }
+        ]
+      },
+      {
+        "slug": "land-clearing",
+        "name": "Land Clearing",
+        "shortDescription": "Efficient and environmentally responsible land clearing services for construction and development.",
+        "description": "Whether you are preparing land for a new home, commercial building, or agricultural project, Rocky Mountain Excavating offers comprehensive land clearing services in Albuquerque. We understand the importance of responsible land clearing practices that protect the environment and preserve the natural beauty of New Mexico. Our team uses specialized equipment to remove trees, brush, and other vegetation while minimizing soil disturbance. We also offer selective clearing services to preserve desirable trees and shrubs. We handle all aspects of land clearing, including debris removal, stump grinding, and erosion control. We are committed to sustainable practices, recycling materials whenever possible and minimizing our impact on the environment. Rocky Mountain Excavating provides efficient and reliable land clearing services that prepare your land for development while protecting the environment for future generations. Albuquerque's varying landscape requires knowledge and care, and we pride ourselves on being stewards of the land.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the vegetation, topography, and environmental considerations.",
+          "Step 2: Clearing - We remove trees, brush, and other vegetation using appropriate equipment.",
+          "Step 3: Debris Removal - We remove and dispose of all debris in an environmentally responsible manner.",
+          "Step 4: Erosion Control - We implement erosion control measures to protect the soil and water quality."
+        ],
+        "benefits": [
+          "Prepares land for construction and development",
+          "Protects the environment and preserves natural resources",
+          "Reduces the risk of wildfires",
+          "Improves property value"
+        ],
+        "faq": [
+          {
+            "question": "How do you handle environmental concerns during land clearing?",
+            "answer": "We follow all environmental regulations and implement best management practices to minimize our impact on the environment. We also work with environmental consultants to ensure compliance."
+          },
+          {
+            "question": "What happens to the trees and brush you remove?",
+            "answer": "We recycle materials whenever possible, such as chipping trees for mulch or donating them to local organizations. We dispose of non-recyclable materials in an environmentally responsible manner."
+          },
+          {
+            "question": "Do I need permits for land clearing?",
+            "answer": "Yes, in most cases, permits are required. We can assist you with the permitting process to ensure compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Effective drainage solutions to protect your property from water damage and erosion.",
+        "description": "Albuquerque's monsoon season can bring heavy rainfall and flash floods, making proper drainage essential for protecting your property. Rocky Mountain Excavating specializes in designing and installing effective drainage solutions for residential and commercial properties. We understand the unique challenges of Albuquerque's arid climate and the importance of managing stormwater runoff. Our team offers a variety of drainage solutions, including French drains, swales, culverts, and retention ponds. We carefully assess your property's topography, soil conditions, and drainage patterns to design a system that effectively manages water runoff and prevents water damage. We also provide maintenance and repair services for existing drainage systems. We prioritize quality and durability, using high-quality materials and proven construction techniques to ensure your drainage system provides long-lasting protection. With Rocky Mountain Excavating, you can rest assured that your property is protected from the damaging effects of water.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the property's topography, soil conditions, and drainage patterns.",
+          "Step 2: Design - We design a drainage system that effectively manages stormwater runoff.",
+          "Step 3: Installation - We install the drainage system using high-quality materials and proven techniques.",
+          "Step 4: Testing - We test the drainage system to ensure it is functioning properly."
+        ],
+        "benefits": [
+          "Protects property from water damage and erosion",
+          "Prevents flooding and standing water",
+          "Improves property value",
+          "Reduces the risk of foundation problems"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe to redirect surface water and groundwater away from a specific area."
+          },
+          {
+            "question": "How do I know if I need a drainage system?",
+            "answer": "Signs that you may need a drainage system include standing water, soggy soil, foundation cracks, and water damage in your basement."
+          },
+          {
+            "question": "How much does a drainage system cost?",
+            "answer": "The cost of a drainage system varies depending on the size and complexity of the project. We provide a free estimate after assessing your property."
+          }
+        ]
+      },
+      {
+        "slug": "demolition-services",
+        "name": "Demolition Services",
+        "shortDescription": "Safe and efficient demolition services for residential and commercial structures.",
+        "description": "Rocky Mountain Excavating provides safe and efficient demolition services for residential and commercial structures in Albuquerque. We understand the importance of careful planning and execution when demolishing a building or structure. Our team has the experience and equipment to handle demolition projects of all sizes, from small residential buildings to large commercial structures. We prioritize safety and compliance, following all OSHA regulations and local codes to protect our team and the surrounding environment. We handle all aspects of demolition, including site preparation, asbestos abatement (if necessary), structural demolition, and debris removal. We are committed to environmentally responsible practices, recycling materials whenever possible and minimizing our impact on the environment. Rocky Mountain Excavating provides reliable and professional demolition services that prepare your site for new construction.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the structure, identify potential hazards, and develop a demolition plan.",
+          "Step 2: Permitting - We obtain all necessary permits and approvals from local authorities.",
+          "Step 3: Demolition - We carefully demolish the structure using appropriate equipment and techniques.",
+          "Step 4: Debris Removal - We remove and dispose of all debris in an environmentally responsible manner."
+        ],
+        "benefits": [
+          "Prepares sites for new construction",
+          "Removes hazardous structures",
+          "Recycles materials whenever possible",
+          "Complies with all safety regulations"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for demolition?",
+            "answer": "Yes, a permit is required for most demolition projects. We can assist you with the permitting process."
+          },
+          {
+            "question": "What happens to the debris after demolition?",
+            "answer": "We recycle materials whenever possible, such as concrete and metal. We dispose of non-recyclable materials in an environmentally responsible manner."
+          },
+          {
+            "question": "How long does demolition take?",
+            "answer": "The duration of demolition depends on the size and complexity of the project. We will provide a timeline during the planning phase."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Albuquerque",
+        "slug": "albuquerque-nm",
+        "state": "NM",
+        "content": "Rocky Mountain Excavating is proud to offer comprehensive excavation services to Albuquerque and the surrounding areas. We understand the unique challenges of working in the high desert environment, from caliche soil to unpredictable weather. Our experienced team is equipped to handle any excavation project, large or small, with precision and efficiency.\n\nWe are committed to providing Albuquerque residents and businesses with reliable and affordable excavation solutions. Whether you need site preparation for a new construction project, utility trenching, or land clearing, we have the expertise and equipment to get the job done right. We prioritize safety and environmental responsibility in all our operations.",
+        "localContext": "Albuquerque is the largest city in New Mexico, known for its rich history, vibrant culture, and stunning landscapes. We are experienced in navigating the city's specific regulations and permitting processes to ensure a smooth and hassle-free experience for our clients.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Los Lunas",
+          "Bernalillo"
+        ]
+      },
+      {
+        "city": "Rio Rancho",
+        "slug": "rio-rancho-nm",
+        "state": "NM",
+        "content": "Rocky Mountain Excavating extends its expert excavation services to the rapidly growing community of Rio Rancho. We understand the unique needs of this area, from new home construction to expanding commercial developments. Our team is well-versed in the local building codes and environmental regulations, ensuring that your project is completed safely and efficiently.\n\nWe are committed to providing Rio Rancho residents and businesses with top-quality excavation services at competitive prices. Whether you need foundation excavation, drainage solutions, or land grading, we have the experience and equipment to handle any project. We pride ourselves on our commitment to customer satisfaction and our attention to detail.",
+        "localContext": "Rio Rancho is a vibrant and growing city located just north of Albuquerque, known for its family-friendly atmosphere and thriving business community. We are familiar with the specific challenges and opportunities of working in this dynamic area.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Bernalillo",
+          "Placitas"
+        ]
+      },
+      {
+        "city": "Los Lunas",
+        "slug": "los-lunas-nm",
+        "state": "NM",
+        "content": "Rocky Mountain Excavating is pleased to offer professional excavation services to the community of Los Lunas and the surrounding Valencia County. We understand the importance of reliable and efficient excavation work for both residential and commercial projects. Our team is equipped to handle a wide range of excavation needs, from septic system installation to road construction.\n\nWe are dedicated to providing Los Lunas residents and businesses with affordable and dependable excavation solutions. Whether you need land clearing, trenching, or site preparation, we have the expertise and equipment to get the job done right. We prioritize safety and environmental responsibility in all our operations.",
+        "localContext": "Los Lunas is a growing community located south of Albuquerque, known for its agricultural heritage and close-knit community. We are experienced in navigating the area's specific regulations and permitting processes.",
+        "nearbyAreas": [
+          "Belen",
+          "Albuquerque",
+          "Peralta"
+        ]
+      },
+      {
+        "city": "Bernalillo",
+        "slug": "bernalillo-nm",
+        "state": "NM",
+        "content": "Rocky Mountain Excavating provides expert excavation services to Bernalillo and the surrounding Sandoval County. We understand the unique challenges of working in this historic area, from preserving cultural resources to navigating complex permitting processes. Our team is committed to providing environmentally responsible and culturally sensitive excavation solutions.\n\nWe are dedicated to providing Bernalillo residents and businesses with reliable and affordable excavation services. Whether you need foundation excavation, utility trenching, or land grading, we have the expertise and equipment to get the job done right. We pride ourselves on our commitment to customer satisfaction and our attention to detail.",
+        "localContext": "Bernalillo is a historic town located north of Albuquerque, known for its rich cultural heritage and scenic beauty. We are familiar with the specific regulations and considerations of working in this unique area.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Albuquerque",
+          "Placitas"
+        ]
+      },
+      {
+        "city": "Placitas",
+        "slug": "placitas-nm",
+        "state": "NM",
+        "content": "Rocky Mountain Excavating proudly serves the Placitas community with reliable and professional excavation services. We understand the unique needs of this rural area, from septic system installations to driveway construction. Our team is experienced in working with the diverse terrain and environmental considerations of Placitas.\n\nWe are committed to providing Placitas residents with top-quality excavation services at competitive prices. Whether you need land clearing, trenching, or site preparation, we have the expertise and equipment to handle any project. We prioritize safety and environmental responsibility in all our operations.",
+        "localContext": "Placitas is a charming rural community located in the foothills of the Sandia Mountains, known for its stunning natural beauty and artistic community. We are familiar with the specific challenges of working in this environment.",
+        "nearbyAreas": [
+          "Bernalillo",
+          "Rio Rancho",
+          "Albuquerque"
+        ]
+      },
+      {
+        "city": "Belen",
+        "slug": "belen-nm",
+        "state": "NM",
+        "content": "Rocky Mountain Excavating offers comprehensive excavation services to Belen and the surrounding areas, supporting both residential and commercial projects. We understand the specific needs of this growing community, from new construction to infrastructure development. Our team is equipped to handle a variety of excavation tasks with precision and efficiency.\n\nWe are dedicated to providing Belen residents and businesses with reliable and affordable excavation solutions. Whether you require site preparation, utility trenching, or drainage solutions, we have the expertise and equipment to get the job done right. We prioritize safety and adhere to all local regulations.",
+        "localContext": "Belen is a key transportation hub located south of Albuquerque, experiencing growth in both residential and commercial sectors. We are experienced in navigating the local guidelines and requirements to ensure a smooth project execution.",
+        "nearbyAreas": [
+          "Los Lunas",
+          "Peralta",
+          "Bosque Farms"
+        ]
+      },
+      {
+        "city": "Peralta",
+        "slug": "peralta-nm",
+        "state": "NM",
+        "content": "Rocky Mountain Excavating is proud to provide professional excavation services to Peralta and the surrounding communities. We are familiar with the unique requirements of this area, including residential developments and agricultural projects. Our team is committed to delivering high-quality workmanship and exceptional customer service.\n\nWe offer a wide range of excavation services to Peralta residents and businesses at competitive prices. Whether you need land leveling, septic system installation, or foundation excavation, we have the experience and equipment to handle the job efficiently. We prioritize safety and environmental stewardship in all our projects.",
+        "localContext": "Peralta is a charming community located close to the Rio Grande River, known for its agricultural roots and family-friendly environment. We understand the importance of respecting the local environment and community values in our work.",
+        "nearbyAreas": [
+          "Los Lunas",
+          "Belen",
+          "Bosque Farms"
+        ]
+      },
+      {
+        "city": "Bosque Farms",
+        "slug": "bosque-farms-nm",
+        "state": "NM",
+        "content": "Rocky Mountain Excavating provides dependable excavation services to Bosque Farms and the surrounding areas, catering to the unique needs of this rural community. We understand the importance of reliable excavation for both residential and agricultural projects. Our team is equipped to handle a wide range of excavation tasks with attention to detail and efficiency.\n\nWe are dedicated to providing Bosque Farms residents with affordable and trustworthy excavation solutions. Whether you require land clearing, trenching for utilities, or drainage improvements, we have the expertise and equipment to get the job done right. We prioritize safety and environmental responsibility in all our operations.",
+        "localContext": "Bosque Farms is a close-knit community known for its agricultural heritage and scenic beauty along the Rio Grande. We are experienced in navigating the specific regulations and permitting processes within the community.",
+        "nearbyAreas": [
+          "Los Lunas",
+          "Belen",
+          "Peralta"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Foundation Excavation",
+        "text": "Rocky Mountain Excavating did an outstanding job with our foundation excavation. They were on time, professional, and very careful to avoid damaging our existing landscaping. The team clearly communicated the entire process, and the final result was perfect. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Utility Trenching",
+        "text": "We hired Rocky Mountain Excavating for utility trenching for a new gas line. They were quick and efficient. There was a small hiccup with the initial trench depth, but they corrected it immediately and without any complaints. Good service overall.",
+        "date": "2024-12-01"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Land Clearing",
+        "text": "Jake and his crew cleared a large plot of land for us in the North Valley. They were very professional, and the job was completed on time and within budget. They even took care of all the permitting. Great experience!",
+        "date": "2024-10-22"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "After experiencing significant flooding during the monsoon season, we contacted Rocky Mountain Excavating. They designed and installed a fantastic drainage system that has completely solved our water problems. Extremely happy with their work!",
+        "date": "2024-07-08"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Site Preparation",
+        "text": "Rocky Mountain Excavating prepared our site for a new home build. The grading was well done, and they were very responsive to our questions throughout the process. Minor delay due to weather, but they kept us informed.",
+        "date": "2024-05-19"
+      },
+      {
+        "name": "Michael T.",
+        "rating": 5,
+        "service": "Demolition Services",
+        "text": "We hired Rocky Mountain Excavating to demolish an old shed on our property. They were prompt, efficient, and left the site clean. The price was reasonable, and the service was excellent. Would definitely use them again.",
+        "date": "2024-02-03"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Rocky Mountain Excavating | Albuquerque, NM",
+        "description": "Albuquerque's trusted excavation contractor. Site prep, foundations, utilities. Call +15052009367 for a free quote!"
+      },
+      "about": {
+        "title": "About Rocky Mountain Excavating",
+        "description": "Learn about Rocky Mountain Excavating's commitment to quality and Albuquerque community. Decades of experience, reliable service."
+      },
+      "services": {
+        "title": "Excavation Services | Albuquerque, NM",
+        "description": "Rocky Mountain Excavating offers complete excavation solutions. Site preparation, foundations, utility trenching, & more."
+      },
+      "contact": {
+        "title": "Contact Rocky Mountain Excavating",
+        "description": "Get a free excavation quote in Albuquerque. Call +15052009367 or email us today. Fast, reliable service."
+      },
+      "reviews": {
+        "title": "Rocky Mountain Excavating Reviews",
+        "description": "Read what our Albuquerque customers are saying about Rocky Mountain Excavating. Quality excavation services and customer satisfaction."
+      },
+      "service-areas": {
+        "title": "Service Areas | Rocky Mountain Excavating",
+        "description": "Rocky Mountain Excavating provides excavation services throughout Albuquerque and surrounding areas. Find a location near you."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "site-preparation": "/images/service-site-preparation.webp",
+      "foundation-excavation": "/images/service-foundation-excavation.webp",
+      "utility-trenching": "/images/service-utility-trenching.webp",
+      "land-clearing": "/images/service-land-clearing.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "demolition-services": "/images/service-demolition-services.webp"
+    },
+    "servicesResponsive": {
+      "site-preparation": {
+        "src": "/images/service-site-preparation.webp",
+        "srcset": "/images/service-site-preparation-400w.webp 400w, /images/service-site-preparation-800w.webp 800w, /images/service-site-preparation-1200w.webp 1200w, /images/service-site-preparation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-excavation": {
+        "src": "/images/service-foundation-excavation.webp",
+        "srcset": "/images/service-foundation-excavation-400w.webp 400w, /images/service-foundation-excavation-800w.webp 800w, /images/service-foundation-excavation-1200w.webp 1200w, /images/service-foundation-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "utility-trenching": {
+        "src": "/images/service-utility-trenching.webp",
+        "srcset": "/images/service-utility-trenching-400w.webp 400w, /images/service-utility-trenching-800w.webp 800w, /images/service-utility-trenching-1200w.webp 1200w, /images/service-utility-trenching.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "land-clearing": {
+        "src": "/images/service-land-clearing.webp",
+        "srcset": "/images/service-land-clearing-400w.webp 400w, /images/service-land-clearing-800w.webp 800w, /images/service-land-clearing-1200w.webp 1200w, /images/service-land-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "demolition-services": {
+        "src": "/images/service-demolition-services.webp",
+        "srcset": "/images/service-demolition-services-400w.webp 400w, /images/service-demolition-services-800w.webp 800w, /images/service-demolition-services-1200w.webp 1200w, /images/service-demolition-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
